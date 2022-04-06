@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\auth",
+    "\\src\\auth\\decorators",
+    "\\src\\auth\\dto",
+    "\\src\\auth\\interfaces",
+    "\\src\\product",
+    "\\src\\product\\dto"
+  ],
+  "PreviewInSolutionExplorer": false
+}
